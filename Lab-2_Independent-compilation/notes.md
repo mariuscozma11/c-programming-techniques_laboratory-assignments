@@ -3,7 +3,7 @@ this means that the main() function requires a number of *int argc* parameters i
 The first parameter from argv[] is a pointer to the first string from the command line which contains the name of the binary program.
 
 ## Compilation process in C:
-
+```
 Source Code(.c, .h)
       |
       |
@@ -33,3 +33,4 @@ Source Code(.c, .h)
     |
     V
 Executable code(.x)
+```
